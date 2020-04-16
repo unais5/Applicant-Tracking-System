@@ -1,0 +1,39 @@
+﻿MUHAMMAD HIBIB ULLAH
+(Software Engineer) 
+
+
+Nationality Pakistani
+
+Id: 42401697725571
+
+House#626, Block#N, Street# 7, ChistiNagar, Sec 11 , Orangi Town, Karachi.0341-2776732
+habibu002@gmail.com
+bc150200729@vu.edu.pk
+
+PERSONAL INFO:
+
+To search for a position that will allow me to improve my current programming,communications, and teamwork skills. For this position, Ialso seek the opportunity to learn new skills for future.
+
+ACADEMIC QUALIFICATIONS:
+
+BS  Appearing  Virtual University of Pakistan Inter
+Inter  Govt. Boys Degree College
+Matric  Decent English Sec. School
+
+WORK EXPERIENCE:
+
+Web dev  Sma Tech   2 years
+
+1 year experienced in Front End web development using WordPress (AvadaTheme).
+Designed the Insert, Update and Delete query using Php.
+
+SKILLS:
+
+Html5
+Css3
+WordPress
+Bootstrap
+Php (Beginner Level)
+JQuery
+Sass (Beginner Level)
+MySQL
